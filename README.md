@@ -1,1 +1,1 @@
-# slider
+This Flutter project shows a simple UI layout. It includes a top container with name and AG number, a main image, a horizontal scroll row of multiple images, and a bottom container. It demonstrates basic Flutter widgets and layout design.
